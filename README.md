@@ -49,13 +49,13 @@ The Power BI dashboard is split into three key analytical pages:
 ##  Screenshots
 
 ### Credit Card Transaction Overview
-![Transaction Overview](https://github.com/Kshitija-Agrawal/Credit-Card-Fraud-PowerBi/blob/main/Screenshots/Screenshot%202025-07-26%20232141.png)
+(https://github.com/Kshitija-Agrawal/Credit-Card-Fraud-PowerBi/blob/main/Screenshots/Screenshot%202025-07-26%20232141.png)
 
 ### Geographical Transaction Analysis
-![Geographical Analysis](https://github.com/Kshitija-Agrawal/Credit-Card-Fraud-PowerBi/blob/main/Screenshots/Screenshot%202025-07-26%20232329.png)
+(https://github.com/Kshitija-Agrawal/Credit-Card-Fraud-PowerBi/blob/main/Screenshots/Screenshot%202025-07-26%20232329.png)
 
 ### Analyzing Fraud Pattern
-![Fraud Pattern](https://github.com/Kshitija-Agrawal/Credit-Card-Fraud-PowerBi/blob/main/Screenshots/Screenshot%202025-07-26%20232243.png)
+(https://github.com/Kshitija-Agrawal/Credit-Card-Fraud-PowerBi/blob/main/Screenshots/Screenshot%202025-07-26%20232243.png)
 
 
 ##  Dataset
@@ -68,6 +68,10 @@ The dataset includes the following fields:
 - `Amount`
 - `IsFraud` (0: Non-Fraud, 1: Fraud)
 - `MerchantID`
+
+
+##  Interactive Power BI Dashboard
+(https://github.com/Kshitija-Agrawal/Credit-Card-Fraud-PowerBi/blob/main/credit%20card%20fraud.pbix)
 
 
 ##  Tools & Technologies
